@@ -2,7 +2,7 @@ https://github.com/Roshani-Analyst/Gen-Z-Executive-Excel-Dashboard/blob/main/Gen
 
 # Gen-Z-Executive-Excel-Dashboard
 
-This one is my internship project I have to present key insights to executive on Gen-Z career aspiration.
+This project presents a comprehensive Executive Dashboard designed to analyze the career aspirations and work preferences of Gen Z professionals. Built using Excel, the dashboard leverages pivot tables, charts, and slicers to provide dynamic insights into the factors shaping Gen Z's professional goals, work-life alignment, and preferences for company missions.
 
 Developed an interactive Career Aspiration Dashboard based on survey data from 124,708 Gen Z respondents during my internship at KultureHire.
 
