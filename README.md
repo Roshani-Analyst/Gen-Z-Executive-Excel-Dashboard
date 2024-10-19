@@ -1,3 +1,5 @@
+https://github.com/Roshani-Analyst/Gen-Z-Executive-Excel-Dashboard/blob/main/Gen-Z.png
+
 # Gen-Z-Executive-Excel-Dashboard
 
 This one is my internship project I have to present key insights to executive on Gen-Z career aspiration.
